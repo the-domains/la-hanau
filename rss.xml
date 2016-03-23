@@ -4,7 +4,7 @@
         <description><![CDATA[Pumehana]]></description>
         <link>https://thegrid.ai/la-hanau/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 08:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2016 08:20:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/la-hanau/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/la-hanau/c8bdf277-73d3-4694-a86c-875ea8bd7cbd/index.html</link>
             <guid isPermaLink="false">c8bdf277-73d3-4694-a86c-875ea8bd7cbd</guid>
             <pubDate>Wed, 23 Mar 2016 08:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/599e42a6-f7a1-4aa8-a999-a277c1d3a382.jpg">]]></description>
-            <link>https://thegrid.ai/la-hanau/24d81e10-b4c8-418d-b6b0-58f45a905981/index.html</link>
-            <guid isPermaLink="false">24d81e10-b4c8-418d-b6b0-58f45a905981</guid>
-            <pubDate>Sun, 24 Jan 2016 20:04:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
